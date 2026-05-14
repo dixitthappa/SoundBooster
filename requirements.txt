@@ -1,0 +1,9 @@
+comtypes==1.4.16
+keyboard==0.13.5
+numpy==2.4.4
+pillow==12.2.0
+pycaw==20251023
+pyinstaller==6.20.0
+PyQt5==5.15.11
+pystray==0.19.5
+sounddevice==0.5.5
